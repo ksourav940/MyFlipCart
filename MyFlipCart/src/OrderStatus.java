@@ -1,0 +1,4 @@
+
+public enum OrderStatus {
+      PENDING , CREATED, UNSHIPPED, SHIPPED, CANCLED, COMPLETED;
+}
